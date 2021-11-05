@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Hi, I am Ulaş Öztürk.</p>
         <p>
-          Checkout my <a href="https://github.com/Ulashe">GitHub</a>GitHub profile.
+          Checkout my <a href="https://github.com/Ulashe">GitHub</a> profile.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
